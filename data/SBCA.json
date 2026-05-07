@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T21:08:26.158532+00:00",
+  "updated_at": "2026-05-07T21:17:16.302841+00:00",
   "airport_icao": "SBCA",
   "airport_name": "Cascavel",
   "source": "AviationStack",
@@ -20,7 +20,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-07T19:00:00+00:00",
       "time_iso": "2026-05-07T19:00:00+00:00",
-      "status": "programado"
+      "status": "em voo"
     },
     {
       "callsign": "AR8030",
@@ -29,7 +29,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-07T19:00:00+00:00",
       "time_iso": "2026-05-07T19:00:00+00:00",
-      "status": "programado"
+      "status": "em voo"
     },
     {
       "callsign": "AD5094",
@@ -37,7 +37,7 @@
       "airport": "SBCT",
       "airport_name": "Curitiba",
       "scheduled": "2026-05-07T18:40:00+00:00",
-      "time_iso": "2026-05-07T18:22:00+00:00",
+      "time_iso": "2026-05-07T18:28:00+00:00",
       "status": "em voo"
     },
     {
@@ -83,7 +83,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-07T19:00:00+00:00",
       "time_iso": "2026-05-07T19:00:00+00:00",
-      "status": "programado"
+      "status": "em voo"
     },
     {
       "callsign": "TP4170",
@@ -391,7 +391,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-07T11:20:00+00:00",
       "time_iso": "2026-05-07T11:22:00+00:00",
-      "status": "em voo"
+      "status": "pousado"
     },
     {
       "callsign": "KL9369",
@@ -400,7 +400,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-07T11:20:00+00:00",
       "time_iso": "2026-05-07T11:22:00+00:00",
-      "status": "em voo"
+      "status": "pousado"
     },
     {
       "callsign": "AV4736",
@@ -409,7 +409,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-07T11:20:00+00:00",
       "time_iso": "2026-05-07T11:22:00+00:00",
-      "status": "em voo"
+      "status": "pousado"
     },
     {
       "callsign": "AF1903",
@@ -418,7 +418,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-07T11:20:00+00:00",
       "time_iso": "2026-05-07T11:22:00+00:00",
-      "status": "em voo"
+      "status": "pousado"
     },
     {
       "callsign": "QR5110",
@@ -454,7 +454,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-07T11:20:00+00:00",
       "time_iso": "2026-05-07T11:22:00+00:00",
-      "status": "em voo"
+      "status": "pousado"
     },
     {
       "callsign": "AF1903",
